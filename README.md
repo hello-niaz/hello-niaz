@@ -5,17 +5,28 @@ I’m Niaz, an AI automation and voice agent builder focused on real-world busin
 
 I mainly build AI voice agents (inbound & outbound calling), and also develop RAG-based agent systems for accurate, knowledge-driven conversations.
 
-🛠 What tools do I use?
+🛠 Tech & Tools
 
 Voice AI & conversational frameworks
 
-n8n for automation and workflows
+n8n (workflow automation)
 
 LLMs & OpenAI APIs
 
-RAG systems (vector databases, embeddings)
+RAG systems (embeddings, vector databases)
 
 Python & API integrations
+
+🎯 What I Build
+
+AI receptionists & calling agents
+
+Knowledge-aware AI agents (RAG)
+
+CRM, lead handling & follow-up automations
+
+Custom business workflows & integrations
+
 
 📫 How to reach me?
 
